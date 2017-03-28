@@ -7,3 +7,13 @@ You can buy Digispark at [Digistump](http://digistump.com/products/1) or for a l
 Installation of the Arduino Sketch 1.6.5 as other versions are not supported. [Arduino Old Software Releases Link](https://www.arduino.cc/en/main/OldSoftwareReleases)
 
 [Connecting and Programming your Digispark. ](https://digistump.com/wiki/digispark/tutorials/connecting)
+
+---
+
+Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://github.com/kbeflo/digispark-payloads/blob/master/LICENSE) for more information.
+
+Note that this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
+
+Kleo Bercero - [@kbeflo](https://twitter.com/kbeflo) - [My website](https://kerberos.me/)
+
+Support me on - [Patreon](https://www.patreon.com/kbeflo)
