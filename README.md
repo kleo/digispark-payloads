@@ -14,6 +14,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Note that this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
-Kleo Bercero - [@kbeflo](https://twitter.com/kbeflo) - [My website](https://kerberos.me/)
-
 Support me on - [Patreon](https://www.patreon.com/kbeflo)
+
+[Kleo Bercero](https://kbeflo.github.io/)
