@@ -14,6 +14,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Note that this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
-<a href='https://ko-fi.com/kbeflo' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://paypal.me/kbeflo)
 
 [Kleo Bercero](https://kbeflo.github.io/)
