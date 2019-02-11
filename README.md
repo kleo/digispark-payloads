@@ -14,6 +14,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE v3. See [LICENSE](https://githu
 
 Note that this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://paypal.me/kbeflo)
+[Donate](https://paypal.me/kbeflo)
 
 [Kleo Bercero](https://kbeflo.github.io/)
