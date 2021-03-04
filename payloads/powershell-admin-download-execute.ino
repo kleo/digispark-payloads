@@ -10,7 +10,7 @@ Fork: https://github.com/valkyrix/Digispark-Reverse-Shell-Win10
 
 Concept: https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---Windows-10-%3A-Download-and-execute-file-with-Powershell
 
-Created by Kleo Bercero - @kbeflo - kbeflo@gmail.com
+Created by Kleo Bercero
 
 */
 
